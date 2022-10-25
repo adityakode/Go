@@ -2,7 +2,7 @@
 ## Writing your first program in go.
 
 ```
-fn main()
+package main()
 import "fmt"
 
 func main(){
