@@ -1,5 +1,5 @@
 # Hello World 
-## Writing your first program in go
+## Writing your first program in go.
 
 ```
 fn main()
